@@ -18,3 +18,6 @@ While NumPy is the foundation, Pandas is often the library that data analysts an
 
 Keep in mind that learning any of these libraries will involve some understanding of Python fundamentals, so having a solid grasp of Python basics will be beneficial before diving into data manipulation and visualization libraries.
 ```
+
+
+[FireplacesByHousePrice.pdf](https://github.com/Noah3141/python_data_science_fundamentals/files/12136990/FireplacesByHousePrice.pdf)
