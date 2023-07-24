@@ -9,7 +9,10 @@ class Ticket:
         return self
 
     def mark_completed(self):
-        """Marks the ticket's completed field with True. Only use after yada yada"""
+        """Marks the ticket's completed field with True. Only use after yada yada
+        >>> x = 5
+
+        """
         self.__completed = True
 
 
